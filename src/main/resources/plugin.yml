@@ -1,0 +1,6 @@
+name: PlayerLogPlugin
+main: me.joyce.nukkit.plugin.playerlog.core.PlayerLogPlugin
+version: "0.0.1"
+author: joyce
+api: ["1.0.0"]
+description: 玩家日志记录插件
